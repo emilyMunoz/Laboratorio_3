@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorio_3</string>
+    <string name="tex_view_title">titulo para el ejemplo</string>
+    <string name="correct_toast">correcto</string>
+</resources>
